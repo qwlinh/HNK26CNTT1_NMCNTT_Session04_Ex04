@@ -1,7 +1,7 @@
 # Phần 1: Phân tích & Đề xuất (So sánh 2 cách viết đường dẫn):
 
 Dưới đây là bảng so sánh chi tiết giữa Cách 1 Đường dẫn tuyệt đối - Absolute Path và Cách 2 Đường dẫn tương đối
-
+ 
 Tiêu chí so sánh
 ## 1 Tính di động (Portability):
  - Cách 1: Đường dẫn tuyệt đối (C:\Users\...):  Kém ( Bị gắn cứng theo tên máy tính và tên người dùng của An. Khi An gửi thư mục Project cho bạn bè hoặc đưa lên máy chủ khác, đường dẫn sẽ bị lỗi ngay lập tức vì cấu trúc thư mục hệ thống khác. )
